@@ -1,0 +1,6 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+E:/VIVADO/jizu/cpuyep/cpuyep.sim/sim_1/synth/timing/xsim/tb_time_synth.v,1619522495,verilog,,E:/VIVADO/jizu/cpuyep/cpuyep.srcs/sim_1/new/tb.v,,ACC;ALU;CU;IR;MAR;MBR;PC;blk_mem_gen_0;blk_mem_gen_0_blk_mem_gen_generic_cstr;blk_mem_gen_0_blk_mem_gen_prim_width;blk_mem_gen_0_blk_mem_gen_prim_wrapper_init;blk_mem_gen_0_blk_mem_gen_top;blk_mem_gen_0_blk_mem_gen_v8_4_3;blk_mem_gen_0_blk_mem_gen_v8_4_3_synth;blk_mem_gen_1;blk_mem_gen_1_blk_mem_gen_generic_cstr;blk_mem_gen_1_blk_mem_gen_prim_width;blk_mem_gen_1_blk_mem_gen_prim_wrapper_init;blk_mem_gen_1_blk_mem_gen_top;blk_mem_gen_1_blk_mem_gen_v8_4_3;blk_mem_gen_1_blk_mem_gen_v8_4_3_synth;glbl;top,,,,,,,,
+E:/VIVADO/jizu/cpuyep/cpuyep.srcs/sim_1/new/tb.v,1619351905,verilog,,,,tb,,,,,,,,

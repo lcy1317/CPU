@@ -1,0 +1,18 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+E:/VIVADO/jizu/cpuyep/cpuyep.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+E:/VIVADO/jizu/cpuyep/cpuyep.srcs/sim_1/new/tb.v,1619351905,verilog,,,,tb,,,,,,,,
+E:/VIVADO/jizu/cpuyep/cpuyep.srcs/sources_1/ip/blk_mem_gen_0/sim/blk_mem_gen_0.v,1619875600,verilog,,E:/VIVADO/jizu/cpuyep/cpuyep.srcs/sources_1/ip/blk_mem_gen_1/sim/blk_mem_gen_1.v,,blk_mem_gen_0,,,,,,,,
+E:/VIVADO/jizu/cpuyep/cpuyep.srcs/sources_1/ip/blk_mem_gen_1/sim/blk_mem_gen_1.v,1619871846,verilog,,E:/VIVADO/jizu/cpuyep/cpuyep.srcs/sources_1/new/ACC.v,,blk_mem_gen_1,,,,,,,,
+E:/VIVADO/jizu/cpuyep/cpuyep.srcs/sources_1/new/ACC.v,1619628261,verilog,,E:/VIVADO/jizu/cpuyep/cpuyep.srcs/sources_1/new/ALU.v,,ACC,,,,,,,,
+E:/VIVADO/jizu/cpuyep/cpuyep.srcs/sources_1/new/ALU.v,1619500567,verilog,,E:/VIVADO/jizu/cpuyep/cpuyep.srcs/sources_1/new/BR.v,,ALU,,,,,,,,
+E:/VIVADO/jizu/cpuyep/cpuyep.srcs/sources_1/new/BR.v,1619335924,verilog,,E:/VIVADO/jizu/cpuyep/cpuyep.srcs/sources_1/new/CU.v,,BR,,,,,,,,
+E:/VIVADO/jizu/cpuyep/cpuyep.srcs/sources_1/new/CU.v,1619755017,verilog,,E:/VIVADO/jizu/cpuyep/cpuyep.srcs/sources_1/new/DISPLAY.v,,CU,,,,,,,,
+,,,,E:/VIVADO/jizu/cpuyep/cpuyep.srcs/sources_1/new/IR.v,,DISPLAY,,,,,,,,
+E:/VIVADO/jizu/cpuyep/cpuyep.srcs/sources_1/new/IR.v,1619349702,verilog,,E:/VIVADO/jizu/cpuyep/cpuyep.srcs/sources_1/new/MAR.v,,IR,,,,,,,,
+E:/VIVADO/jizu/cpuyep/cpuyep.srcs/sources_1/new/MAR.v,1619334323,verilog,,E:/VIVADO/jizu/cpuyep/cpuyep.srcs/sources_1/new/MBR.v,,MAR,,,,,,,,
+E:/VIVADO/jizu/cpuyep/cpuyep.srcs/sources_1/new/MBR.v,1619352467,verilog,,E:/VIVADO/jizu/cpuyep/cpuyep.srcs/sources_1/new/PC.v,,MBR,,,,,,,,
+E:/VIVADO/jizu/cpuyep/cpuyep.srcs/sources_1/new/PC.v,1619334844,verilog,,E:/VIVADO/jizu/cpuyep/cpuyep.srcs/sources_1/new/top.v,,PC,,,,,,,,
+E:/VIVADO/jizu/cpuyep/cpuyep.srcs/sources_1/new/top.v,1619347583,verilog,,E:/VIVADO/jizu/cpuyep/cpuyep.srcs/sim_1/new/tb.v,,top,,,,,,,,

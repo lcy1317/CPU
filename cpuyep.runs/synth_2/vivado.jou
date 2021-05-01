@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Sat May  1 19:53:39 2021
+# Process ID: 21860
+# Current directory: E:/VIVADO/jizu/cpuyep/cpuyep.runs/synth_2
+# Command line: vivado.exe -log top.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source top.tcl
+# Log file: E:/VIVADO/jizu/cpuyep/cpuyep.runs/synth_2/top.vds
+# Journal file: E:/VIVADO/jizu/cpuyep/cpuyep.runs/synth_2\vivado.jou
+#-----------------------------------------------------------
+source top.tcl -notrace

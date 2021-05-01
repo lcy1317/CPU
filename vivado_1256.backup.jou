@@ -1,0 +1,32 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Thu Apr 29 18:17:18 2021
+# Process ID: 1256
+# Current directory: E:/VIVADO/jizu/cpuyep
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent8168 E:\VIVADO\jizu\cpuyep\cpuyep.xpr
+# Log file: E:/VIVADO/jizu/cpuyep/vivado.log
+# Journal file: E:/VIVADO/jizu/cpuyep\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project E:/VIVADO/jizu/cpuyep/cpuyep.xpr
+update_compile_order -fileset sources_1
+reset_run synth_2
+launch_runs synth_2 -jobs 16
+wait_on_run synth_2
+launch_runs impl_2 -jobs 16
+wait_on_run impl_2
+launch_runs impl_2 -to_step write_bitstream -jobs 16
+wait_on_run impl_2
+open_hw
+connect_hw_server
+open_hw_target
+set_property PROGRAM.FILE {E:/VIVADO/jizu/cpuyep/cpuyep.runs/impl_2/top.bit} [get_hw_devices xc7a100t_0]
+current_hw_device [get_hw_devices xc7a100t_0]
+refresh_hw_device -update_hw_probes false [lindex [get_hw_devices xc7a100t_0] 0]
+set_property PROBES.FILE {} [get_hw_devices xc7a100t_0]
+set_property FULL_PROBES.FILE {} [get_hw_devices xc7a100t_0]
+set_property PROGRAM.FILE {E:/VIVADO/jizu/cpuyep/cpuyep.runs/impl_2/top.bit} [get_hw_devices xc7a100t_0]
+program_hw_devices [get_hw_devices xc7a100t_0]
+refresh_hw_device [lindex [get_hw_devices xc7a100t_0] 0]

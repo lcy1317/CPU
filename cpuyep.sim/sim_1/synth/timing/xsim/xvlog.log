@@ -1,0 +1,26 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/VIVADO/jizu/cpuyep/cpuyep.sim/sim_1/synth/timing/xsim/tb_time_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ACC
+INFO: [VRFC 10-311] analyzing module ALU
+INFO: [VRFC 10-311] analyzing module CU
+INFO: [VRFC 10-311] analyzing module IR
+INFO: [VRFC 10-311] analyzing module MAR
+INFO: [VRFC 10-311] analyzing module MBR
+INFO: [VRFC 10-311] analyzing module PC
+INFO: [VRFC 10-311] analyzing module blk_mem_gen_0
+INFO: [VRFC 10-311] analyzing module blk_mem_gen_1
+INFO: [VRFC 10-311] analyzing module top
+INFO: [VRFC 10-311] analyzing module blk_mem_gen_0_blk_mem_gen_generic_cstr
+INFO: [VRFC 10-311] analyzing module blk_mem_gen_0_blk_mem_gen_prim_width
+INFO: [VRFC 10-311] analyzing module blk_mem_gen_0_blk_mem_gen_prim_wrapper_init
+INFO: [VRFC 10-311] analyzing module blk_mem_gen_0_blk_mem_gen_top
+INFO: [VRFC 10-311] analyzing module blk_mem_gen_0_blk_mem_gen_v8_4_3
+INFO: [VRFC 10-311] analyzing module blk_mem_gen_0_blk_mem_gen_v8_4_3_synth
+INFO: [VRFC 10-311] analyzing module blk_mem_gen_1_blk_mem_gen_generic_cstr
+INFO: [VRFC 10-311] analyzing module blk_mem_gen_1_blk_mem_gen_prim_width
+INFO: [VRFC 10-311] analyzing module blk_mem_gen_1_blk_mem_gen_prim_wrapper_init
+INFO: [VRFC 10-311] analyzing module blk_mem_gen_1_blk_mem_gen_top
+INFO: [VRFC 10-311] analyzing module blk_mem_gen_1_blk_mem_gen_v8_4_3
+INFO: [VRFC 10-311] analyzing module blk_mem_gen_1_blk_mem_gen_v8_4_3_synth
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/VIVADO/jizu/cpuyep/cpuyep.srcs/sim_1/new/tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb

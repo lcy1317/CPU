@@ -1,4 +1,6 @@
 # CPU
+NOTE: These files is not the latest version! This is verison8 and the latest changes is not too much, you can change yourself.
+
 SEU COA Experimental Course CPU Simulation Code
 
 The output_version3.py is used to translate Assembly Language to a COE file, easy to run the project.

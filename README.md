@@ -1,5 +1,5 @@
 # CPU
-NOTE: These files is not the latest version! This is verison8 and the latest changes is not too much, you can change yourself.
+NOTE: These files are not the latest version! This is verison8 and the latest changes is not too much, you can change yourself.
 
 SEU COA Experimental Course CPU Simulation Code
 
